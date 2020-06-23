@@ -21,7 +21,7 @@ A certain site's csv convert excel script. This script can modify wrong year.
 
 ## Installation
 
-when you have nod installed pandas or openpyxl, install here.
+when you have not installed pandas and openpyxl, install here.
 `pip install pandas openpyxl`
 
 ## Usage
@@ -31,7 +31,7 @@ On directory `python csv2excel.py`
 
 ## Note
 
-The template.xlsx must made by libre office. 
+The template.xlsx must be made by LibreOffice.
 
 ## Author
 
